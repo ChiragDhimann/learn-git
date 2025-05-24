@@ -2,10 +2,6 @@
 
 ## thanks for visiting
 
-```
-This is a simple example of a Git repository with a single file, `index.html`.
+```JavaScript
 
-some code like 
-JavaScript
-
-console.log("Hello Engineers")```
+console.log("Hello Engineers") ```
